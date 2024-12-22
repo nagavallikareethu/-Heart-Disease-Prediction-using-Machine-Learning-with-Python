@@ -15,4 +15,4 @@ Accuracy achieved: 95% (Random forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
-Google Colab : https://colab.research.google.com/drive/1LmJi6BD6Vwgu5HOuikG-wDj3FM3tFcz9#scrollTo=ELLGrKEIRqsi
+Google Colab : https://colab.research.google.com/drive/10ie8UTmALKxzAHMkbf3cbeknHJjS2iGZ#scrollTo=ELLGrKEIRqsi
